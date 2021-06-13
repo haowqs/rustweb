@@ -1,4 +1,4 @@
-https://img.shields.io/badge/test-test1-green
+![](https://img.shields.io/badge/test-test1-green)
 {
   "schemaVersion": 1,
   "label": "hello",
